@@ -1,0 +1,9 @@
+In our analysis, we have examined two datasets containing over 12 million records for the months of June and December in 2019 and 2020. We focused on the most popular stations in terms of the number of rides, considering both popularity and the total distance from each station as indicators of importance.
+
+One noticeable trend is the evolution of the popularity map from 2019 to 2020. The number of rides and distance covered by riders have decreased overall, particularly during the spring season. This drop can be attributed to the COVID-19 pandemic, which significantly affected transportation patterns and reduced overall ridership. Further analysis is required to delve deeper into this impact.
+
+To understand how the revenue has changed, we need to examine the breakdown of subscribers and customers. As expected, the number of subscribers outweighs that of seasonal customers. While the number of seasonal customers increased steadily throughout 2020, similar to 2019, the number of subscribers experienced a significant drop during the spring season. In general, the number of subscribers in 2020 is much lower than in 2019. By considering the fees associated with each type of customer, it is possible to calculate the revenue decrease in 2020 attributable to the COVID-19 situation.
+
+In the popular areas of the CITIBIKE service in New York, the majority of riders are found in June during summer time. 
+
+Additionally, we have identified certain bike IDs that have been utilized more frequently than others. We also find that the peak hours during 2019 and 2021 is around 5 pm and December is around similar time.
